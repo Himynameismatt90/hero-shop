@@ -1,0 +1,18 @@
+@import url("cards.css");
+@import url("containers.css");
+@import url("images.css");
+@import url("nav-bar.css");
+
+body {
+  font-family: 'Orbitron', "Arial" !important;
+  height: 100dvh;
+
+  margin: 0;
+}
+
+#content-wrapper {
+  padding: 24px 40px;
+
+  background-color: #1E2019;
+  color: #f5f5f7;
+}

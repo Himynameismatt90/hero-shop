@@ -1,0 +1,15 @@
+.product-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  padding: 24px;
+
+  border: 2px solid #ff007f;
+}
+
+.card-btn {
+  border: none;
+
+  padding: 12px 36px;
+}

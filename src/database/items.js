@@ -1,87 +1,87 @@
 export const powerUps = [
   {
     id: "pw-01",
-    name: "Speed Shoes",
+    name: "speed Shoes",
     price: "5000",
-    image: "https://unsplash.com/photos/white-box-on-white-table-GopRYASfsOc",
+    image: "https://images.unsplash.com/photo-1573376670774-4427757f7963?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "ZOOOOOOOOOOM!",
-    stats: { HP: 20, Attack: 20, Defence: 10, Magic: 30, Speed: 100 }
+    stats: { hp: 20, attack: 20, defence: 10, magic: 30, speed: 100 }
   }, {
     id: "pw-02",
     name: "Fire Sword",
     price: "7500",
-    image: "https://unsplash.com/photos/white-box-on-white-table-GopRYASfsOc",
+    image: "https://images.unsplash.com/photo-1573376670774-4427757f7963?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "An awesome flaming sword",
-    stats: { HP: 25, Attack: 75, Defence: 20, Magic: 60, Speed: 30 }
+    stats: { hp: 25, attack: 75, defence: 20, magic: 60, speed: 30 }
   }, {
     id: "pw-03",
     name: "Wooden Shield",
     price: "100",
-    image: "https://unsplash.com/photos/white-box-on-white-table-GopRYASfsOc",
+    image: "https://images.unsplash.com/photo-1573376670774-4427757f7963?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "A basic wooden shield... it doesn't do much...",
-    stats: { HP: 10, Attack: 0, Defence: 10, Magic: 0, Speed: 10 }
+    stats: { hp: 10, attack: 0, defence: 10, magic: 0, speed: 10 }
   }, {
     id: "pw-04",
-    name: "Magic Staff",
+    name: "magic Staff",
     price: "2000",
-    image: "https://unsplash.com/photos/white-box-on-white-table-GopRYASfsOc",
+    image: "https://images.unsplash.com/photo-1573376670774-4427757f7963?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "A staff fit for anyone starting magic!",
-    stats: { HP: 20, Attack: 10, Defence: 20, Magic: 30, Speed: 15 }
+    stats: { hp: 20, attack: 10, defence: 20, magic: 30, speed: 15 }
   }, {
     id: "pw-05",
     name: "Shadow cloak",
     price: "10000",
-    image: "https://unsplash.com/photos/white-box-on-white-table-GopRYASfsOc",
+    image: "https://images.unsplash.com/photo-1573376670774-4427757f7963?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "Keeps you hidden in the dark!",
-    stats: { HP: 0, Attack: 0, Defence: 50, Magic: 50, Speed: 0 }
+    stats: { hp: 0, attack: 0, defence: 50, magic: 50, speed: 0 }
   }, {
     id: "pw-06",
     name: "Light Sword",
     price: "15000",
-    image: "https://unsplash.com/photos/white-box-on-white-table-GopRYASfsOc",
+    image: "https://images.unsplash.com/photo-1573376670774-4427757f7963?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "A mighty sword with the power of light!",
-    stats: { HP: 80, Attack: 80, Defence: 80, Magic: 80, Speed: 80 }
+    stats: { hp: 80, attack: 80, defence: 80, magic: 80, speed: 80 }
   }, {
     id: "pw-07",
     name: "Space Blaster",
     price: "8000",
-    image: "https://unsplash.com/photos/white-box-on-white-table-GopRYASfsOc",
+    image: "https://images.unsplash.com/photo-1573376670774-4427757f7963?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "pew pew laser noises",
-    stats: { HP: 23, Attack: 35, Defence: 15, Magic: 0, Speed: 42 }
+    stats: { hp: 23, attack: 35, defence: 15, magic: 0, speed: 42 }
   }, {
     id: "pw-08",
     name: "Energy Core",
     price: "6000",
-    image: "https://unsplash.com/photos/white-box-on-white-table-GopRYASfsOc",
+    image: "https://images.unsplash.com/photo-1573376670774-4427757f7963?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "Gives a short burst of energy",
-    stats: { HP: 22, Attack: 25, Defence: 35, Magic: 0, Speed: 40 }
+    stats: { hp: 22, attack: 25, defence: 35, magic: 0, speed: 40 }
   }, {
     id: "pw-09",
     name: "Chaos Staff",
     price: "25000",
-    image: "https://unsplash.com/photos/white-box-on-white-table-GopRYASfsOc",
+    image: "https://images.unsplash.com/photo-1573376670774-4427757f7963?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "We have no idea what it does...",
-    stats: { HP: "??", Attack: "??", Defence: "??", Magic: "??", Speed: "??" }
+    stats: { hp: "??", attack: "??", defence: "??", magic: "??", speed: "??" }
   }, {
     id: "pw-10",
     name: "Phantom Ball",
     price: "4444",
-    image: "https://unsplash.com/photos/white-box-on-white-table-GopRYASfsOc",
+    image: "https://images.unsplash.com/photo-1573376670774-4427757f7963?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "Summons phantoms to help you... maybe?",
-    stats: { HP: 12, Attack: 40, Defence: 22, Magic: 44, Speed: 32 }
+    stats: { hp: 12, attack: 40, defence: 22, magic: 44, speed: 32 }
   }, {
     id: "pw-11",
     name: "Swift Armour",
     price: "3200",
-    image: "https://unsplash.com/photos/white-box-on-white-table-GopRYASfsOc",
+    image: "https://images.unsplash.com/photo-1573376670774-4427757f7963?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "Light armour that increases mobility, but reduces magic use",
-    stats: { HP: 35, Attack: 22, Defence: 30, Magic: 0, Speed: 30 }
+    stats: { hp: 35, attack: 22, defence: 30, magic: 0, speed: 30 }
   }, {
     id: "pw-12",
     name: "Arrow",
     price: "100",
-    image: "https://unsplash.com/photos/white-box-on-white-table-GopRYASfsOc",
-    description: "",
-    stats: { HP: 10, Attack: 15, Defence: 5, Magic: 5, Speed: 5 }
+    image: "https://images.unsplash.com/photo-1573376670774-4427757f7963?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    description: "A basic arrow",
+    stats: { hp: 10, attack: 15, defence: 5, magic: 5, speed: 5 }
   }
 ];
